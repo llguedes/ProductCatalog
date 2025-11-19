@@ -75,7 +75,3 @@ Example response:
 ## Purpose
 
 This project was created to demonstrate proficiency with modern C# and .NET 8, showcasing the use of EF Core for CRUD operations and Dapper for optimized SQL queries, following separation of concerns and modular architecture. It also serves as a portfolio-ready example for technical interviews.
-
-## License
-
-MIT License. Free to use and extend.
