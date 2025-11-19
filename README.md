@@ -1,6 +1,6 @@
 # Product Catalog API
 
-A clean and lightweight **.NET 8 Web API** designed to demonstrate knowledge of Clean Architecture, Entity Framework Core, Dapper, Dependency Injection, RESTful design, and Swagger/OpenAPI documentation. This project is intentionally simple and ideal for interviews, technical assessments, or as a base for larger applications.
+A clean and lightweight **.NET 8 Web API** designed to demonstrate knowledge of Clean Architecture, Entity Framework Core, Dapper, Dependency Injection, RESTful design, and Swagger/OpenAPI documentation. 
 
 The solution follows a three-layer architecture:
 
