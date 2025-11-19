@@ -3,3 +3,4 @@
   <Project Path="ProductCatalog.Domain/ProductCatalog.Domain.csproj" />
   <Project Path="ProductCatalog.Infrastructure/ProductCatalog.Infrastructure.csproj" />
 </Solution>
+
